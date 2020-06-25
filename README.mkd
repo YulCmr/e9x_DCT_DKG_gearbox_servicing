@@ -1,1 +1,42 @@
-# README
+# Vidange DCT/DKG
+
+### Ressources pour écriture (à supprimer plus tard)
+
+Retirer carter :
+https://www.newtis.info/tisv2/a/en/e92-m3-cou/repair-manuals/28-twin-clutch-gearbox-dkg/28-10-housing-with-add-on-parts/1VnYiZUBXX
+
+Procédure de niveau d'huile :
+https://www.newtis.info/tisv2/a/en/e92-m3-cou/repair-manuals/28-twin-clutch-gearbox-dkg/28-10-housing-with-add-on-parts/9gDMDiWP
+
+Changement crépine :
+https://www.newtis.info/tisv2/a/en/e92-m3-cou/repair-manuals/28-twin-clutch-gearbox-dkg/28-10-housing-with-add-on-parts/9gQkLhU2
+
+Tous couples de serrage :
+https://www.newtis.info/tisv2/a/en/e92-m3-cou/repair-manuals/28-twin-clutch-gearbox-dkg/28-60-control-unit-mechatronics-hydraulics/1LcEqqZO
+
+### Pièces
+
+| Pièces | Ref BMW | Qté |
+|--------|---------|-----|
+| Crépine d’huile + joint de carter | 28107842828 | 1 |
+| Filtre de pression | 28107842840 | 1 |
+| Pompe d’aspiration | 28107842838 | 1 |
+| Carter d’huile + bouchon de vidange | 28108070791 | 1 |
+| Visserie carter d’huile | 28107842386 | 1 |
+| Huile | Motul Multi DCTF | 7L (8L recommandé) |
+
+### Instructions
+
+| Etape | Instruction | Photo |
+|-------| ----------------------|------------------------------------------------|
+| 1 | Dévisser un peu la vis de niveau pour s'assurer de pouvoir re-remplir la boite <br/>**Douille 8mm**  | ![hydraulic_line](/pictures/1KpssHDw.png) |
+| 2 | Dévisser la vis (**1**) de vidange sur le carter et attendre que l'huile coule | ![hydraulic_line](/pictures/3mogIZRO.png) |
+| 3 | Dévisser les 14 vis pour retirer le carter  | ![hydraulic_line](/pictures/3mwgBPRp.png) |
+| 4 | Une fois le carter déposé, dévisser la vis (**1**) pour retirer la pompe (**2**) | ![hydraulic_line](/pictures/3mtKsmRY.png) |
+| 5 | Retirer les vis (**1**) & (**2**) puis sortir la crépine | ![hydraulic_line](/pictures/3mo3fNas.png) |
+| 6 | Dans le **carter neuf**, installer la crépine neuve puis serrer la vis (**1**) au couple **5 Nm** et la vis (**2**) au couple **8 Nm**  | ![hydraulic_line](/pictures/3mo3fNas.png) |
+| 7 | Installer la pompe (**2**) neuve puis serrer la vis (**1**) au couple **6 Nm**<br/>**Douille 8mm**  | ![hydraulic_line](/pictures/3mo3fNas.png) |
+| 8 | Installer le carter neuf en place (ne pas oubliez le joint neuf) et serrer les 14 vis au couple **10 Nm** en suivant le **pattern 1->14**  | ![hydraulic_line](/pictures/3mwgBPRp.png) |
+| 9 |  Dévisser la vis (**1**) pour enlever les durites (**2**) qui empêchent de sortir le filtre <br/>**Douille 8mm**  | ![hydraulic_line](/pictures/1KnCsnbS.png) |
+| 10 |  Retirer le circlip (**2**) puis sortir le couvercle (**1**) pour accéder au filtre  | ![hydraulic_line](/pictures/3mxJgDXJ.png) |
+| 11 | TODO | TODO |
