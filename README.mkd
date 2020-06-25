@@ -35,7 +35,7 @@ https://www.newtis.info/tisv2/a/en/e92-m3-cou/repair-manuals/28-twin-clutch-gear
 | 4 | Une fois le carter déposé, dévisser la vis (**1**) pour retirer la pompe (**2**) | ![hydraulic_line](/pictures/3mtKsmRY.png) |
 | 5 | Retirer les vis (**1**) & (**2**) puis sortir la crépine | ![hydraulic_line](/pictures/3mo3fNas.png) |
 | 6 | Dans le **carter neuf**, installer la crépine neuve puis serrer la vis (**1**) au couple **5 Nm** et la vis (**2**) au couple **8 Nm**  | ![hydraulic_line](/pictures/3mo3fNas.png) |
-| 7 | Installer la pompe (**2**) neuve puis serrer la vis (**1**) au couple **6 Nm**<br/>**Douille 8mm**  | ![hydraulic_line](/pictures/3mo3fNas.png) |
+| 7 | Installer la pompe (**2**) neuve puis serrer la vis (**1**) au couple **6 Nm**<br/>**Douille 8mm**  | ![hydraulic_line](/pictures/3mtKsmRY.png) |
 | 8 | Installer le carter neuf en place (ne pas oubliez le joint neuf) et serrer les 14 vis au couple **10 Nm** en suivant le **pattern 1->14**  | ![hydraulic_line](/pictures/3mwgBPRp.png) |
 | 9 |  Dévisser la vis (**1**) pour enlever les durites (**2**) qui empêchent de sortir le filtre <br/>**Douille 8mm**  | ![hydraulic_line](/pictures/1KnCsnbS.png) |
 | 10 |  Retirer le circlip (**2**) puis sortir le couvercle (**1**) pour accéder au filtre  | ![hydraulic_line](/pictures/3mxJgDXJ.png) |
