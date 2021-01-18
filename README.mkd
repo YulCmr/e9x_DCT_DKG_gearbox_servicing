@@ -16,14 +16,14 @@ https://www.newtis.info/tisv2/a/en/e92-m3-cou/repair-manuals/28-twin-clutch-gear
 
 ### Pièces
 
-| Pièces | Ref BMW | Qté |
-|--------|---------|-----|
-| Crépine d’huile + joint de carter | 28107842828 | 1 |
-| Filtre de pression | 28107842840 | 1 |
-| Pompe d’aspiration | 28107842838 | 1 |
-| Carter d’huile + bouchon de vidange | 28108070791 | 1 |
-| Visserie carter d’huile | 28107842386 | 1 |
-| Huile | Motul Multi DCTF | 7L (8L recommandé) |
+| Pièces | Ref BMW | Qté | Prix (BAP) |
+|--------|---------|-----|------------|
+| Crépine d’huile + joint de carter | 28107842828 | 1 | 83.55 |
+| Filtre de pression | 28107842840 | 1 | 64.24 |
+| Pompe d’aspiration | 28107842838 | 1 | 64.24 |
+| Carter d’huile + bouchon de vidange | 28108070791 | 1 | 167.20 |
+| Visserie carter d’huile | 28107842386 | 14 | 45.92 |
+| Huile | Motul Multi DCTF | 7L (8L recommandé) | 80-115 |
 
 ### Instructions
 
